@@ -29,3 +29,7 @@ This project follows the **CRISP-DM methodology**:
 - Model performance evaluation (RMSE, R², confidence intervals)  
 - Development of an interactive dashboard using **Streamlit/Plotly Dash**  
 - Final report and presentation  
+
+### Videos 
+- Project Demo: https://drive.google.com/file/d/18jkZYrJy4QeUTNTGH_3yCqriDDLiiXzv/view?usp=drive_link
+- Explanation Video: https://drive.google.com/file/d/1zwsp6SWeEsUq81es22HErWYdJmaH8m3F/view?usp=drive_link
